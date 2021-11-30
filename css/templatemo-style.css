@@ -247,14 +247,22 @@ p {
 
 .form-group {
   max-width: 355px;
+  background-color: white;
+  margin: 0 auto;
 }
-
+form{
+  margin: 0 auto;
+}
+textarea{
+  background-color: white;
+  margin: 0 auto;
+}
 .form-control {
-  background: transparent;
   border-color: #999999;
   padding: 15px 10px;
   font-size: 1.1rem;
   margin-bottom: 10px;
+
 }
 
 .tm-btn-submit {
